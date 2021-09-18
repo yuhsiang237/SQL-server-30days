@@ -1,6 +1,6 @@
 # SQL-server-30days-assets
 
-自己的鐵人賽自己辦。在這主要放一些範例、相關檔案。
+自己的鐵人賽自己辦。在這主要放一些範例、相關檔案。  
 紀錄SQL server自學過程。
 
 [[Day1] SQL Server 安裝 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/01/sql-server%E5%AE%89%E8%A3%9D/)  

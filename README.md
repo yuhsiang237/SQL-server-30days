@@ -1,5 +1,7 @@
 # SQL-server-30days-assets
+
 自己的鐵人賽自己辦。在這主要放一些範例、相關檔案
+SQL server自學過程。
 
 [[Day1] SQL Server 安裝 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/01/sql-server%E5%AE%89%E8%A3%9D/)  
 [[Day2] 主索引鍵與外部索引鍵，及其他關係鍵 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/02/%E4%B8%BB%E7%B4%A2%E5%BC%95%E9%8D%B5%E8%88%87%E5%A4%96%E9%83%A8%E7%B4%A2%E5%BC%95%E9%8D%B5/)  

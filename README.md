@@ -1,33 +1,33 @@
 # SQL-server-30days-assets
 自己的鐵人賽自己辦。在這主要放一些範例、相關檔案
 
-[Day1] SQL Server 安裝 - SQL Server資料庫入門
-[Day2] 主索引鍵與外部索引鍵，及其他關係鍵 - SQL Server資料庫入門
-[Day3] SQL Server資料型態 - SQL Server資料庫入門
-[Day4] SQL Server資料庫建立 - SQL Server資料庫入門
-[Day5] 規劃資料表，透過資料庫正規化 - SQL Server資料庫入門
-[Day6] SQL server資料表建立 - SQL Server資料庫入門
-[Day7] SQL server資料庫關聯 - SQL Server資料庫入門
-[Day8] SQL server手動寫入資料 - SQL Server資料庫入門
-[Day9] SQL server查詢語法Select - SQL Server資料庫入門
-[Day10] SQL server Select合併查詢JOIN用法 - SQL Server資料庫入門
-[Day11] SQL server 子查詢 - SQL Server資料庫入門
-[Day12] 集合運算union、intersect、except 垂直整合 - SQL Server資料庫入門
-[Day13] SQL server Group By 資料分組與聚合函數COUNT(), MAX(), MIN(), SUM(), AVG() - SQL Server資料庫入門
-[Day14] SQL server in與not in - SQL Server資料庫入門
-[Day15] SQL server like用法 - SQL Server資料庫入門
-[Day16] SQL server exists用法 - SQL Server資料庫入門
-[Day17] SQL server having用法 - SQL Server資料庫入門
-[Day18] SQL server ANY與ALL用法 - SQL Server資料庫入門
-[Day19] SQL server insert into 資料新增 - SQL Server資料庫入門
-[Day20] SQL server update 資料更新 - SQL Server資料庫入門
-[Day21] SQL server delete 資料刪除 - SQL Server資料庫入門
-[Day22] SQL server 資料庫備份與還原，使用bak - SQL Server資料庫入門
-[Day23] SQL server 資料庫備份與還原，使用sql - SQL Server資料庫入門
-[Day24] SQL server 資料庫管理帳號新增 - SQL Server資料庫入門
-[Day25] SQL server 日期函數 - SQL Server資料庫入門
-[Day26] SQL server 分頁處理 - SQL Server資料庫入門
-[Day27] SQL server 數學函式 - SQL Server資料庫入門
-[Day28] 聊聊學會操作資料庫的好處 - SQL Server資料庫入門
-[Day29] Blog資料庫設計參考 - SQL Server資料庫入門
-[Day30] 電商資料庫設計參考 - SQL Server資料庫入門
+[[Day1] SQL Server 安裝 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/01/sql-server%E5%AE%89%E8%A3%9D/)  
+[[Day2] 主索引鍵與外部索引鍵，及其他關係鍵 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/02/%E4%B8%BB%E7%B4%A2%E5%BC%95%E9%8D%B5%E8%88%87%E5%A4%96%E9%83%A8%E7%B4%A2%E5%BC%95%E9%8D%B5/)  
+[[Day3] SQL Server資料型態 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/03/sql-server%E8%B3%87%E6%96%99%E5%9E%8B%E6%85%8B/)  
+[[Day4] SQL Server資料庫建立 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/04/SQL-server%E8%B3%87%E6%96%99%E8%A1%A8%E8%A6%8F%E5%8A%83/)  
+[[Day5] 規劃資料表，透過資料庫正規化 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/05/SQL-server%E8%B3%87%E6%96%99%E5%BA%AB%E6%AD%A3%E8%A6%8F%E5%8C%96/)  
+[[Day6] SQL server資料表建立 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/06/SQL-server%E8%B3%87%E6%96%99%E8%A1%A8%E5%BB%BA%E7%AB%8B/)  
+[[Day7] SQL server資料庫關聯 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/07/sql-server%E8%B3%87%E6%96%99%E5%BA%AB%E9%97%9C%E8%81%AF/)  
+[[Day8] SQL server手動寫入資料 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/08/SQL-server%E6%89%8B%E5%8B%95%E5%AF%AB%E5%85%A5%E8%B3%87%E6%96%99/)  
+[[Day9] SQL server查詢語法Select - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/09/sql-server%E6%9F%A5%E8%A9%A2%E8%AA%9E%E6%B3%95Select/)  
+[[Day10] SQL server Select合併查詢JOIN用法 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/10/sql-server-%E5%90%88%E4%BD%B5%E6%9F%A5%E8%A9%A2join/)  
+[[Day11] SQL server 子查詢 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/11/sql-server-%E5%AD%90%E6%9F%A5%E8%A9%A2/)  
+[[Day12] 集合運算union、intersect、except 垂直整合 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/12/sql-server-%E9%9B%86%E5%90%88%E9%81%8B%E7%AE%97union%E3%80%81intersect%E3%80%81except-%E5%9E%82%E7%9B%B4%E6%95%B4%E5%90%88%E8%B3%87%E6%96%99/)  
+[[Day13] SQL server Group By 資料分組與聚合函數COUNT(), MAX(), MIN(), SUM(), AVG() - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/13/sql-server-group-by-%E5%88%86%E7%B5%84/)  
+[[Day14] SQL server in與not in - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/16/sql-server-in-not-in/)  
+[[Day15] SQL server like用法 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/16/sql-server-like%E7%94%A8%E6%B3%95/)  
+[[Day16] SQL server exists用法 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/16/sql-server-exists/)  
+[[Day17] SQL server having用法 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/16/sql-server-having%E7%94%A8%E6%B3%95/)  
+[[Day18] SQL server ANY與ALL用法 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/16/sql-server-any%E8%88%87all%E7%94%A8%E6%B3%95/)  
+[[Day19] SQL server insert into 資料新增 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/17/sql-server-insert-into%E8%B3%87%E6%96%99%E6%96%B0%E5%A2%9E/)  
+[[Day20] SQL server update 資料更新 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/17/sql-server-update%E8%B3%87%E6%96%99%E6%9B%B4%E6%96%B0/)  
+[[Day21] SQL server delete 資料刪除 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/17/sql-server-delete-%E8%B3%87%E6%96%99%E5%88%AA%E9%99%A4/)  
+[[Day22] SQL server 資料庫備份與還原，使用bak - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/17/sql-server-%E8%B3%87%E6%96%99%E5%BA%AB%E5%82%99%E4%BB%BD/)  
+[[Day23] SQL server 資料庫備份與還原，使用sql - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/17/sql-server-%E8%B3%87%E6%96%99%E5%BA%AB%E5%82%99%E4%BB%BD%E4%BD%BF%E7%94%A8sql/)  
+[[Day24] SQL server 資料庫管理帳號新增 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/17/sql-server-%E8%B3%87%E6%96%99%E5%BA%AB%E7%AE%A1%E7%90%86%E5%B8%B3%E8%99%9F%E6%96%B0%E5%A2%9E/)  
+[[Day25] SQL server 日期函數 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/17/sql-server-%E6%97%A5%E6%9C%9F%E5%87%BD%E6%95%B8/)  
+[[Day26] SQL server 分頁處理 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/17/sql-server-%E5%88%86%E9%A0%81%E8%99%95%E7%90%86/)  
+[[Day27] SQL server 數學函式 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/17/sql-server-%E6%95%B8%E5%AD%B8%E5%87%BD%E5%BC%8F/)  
+[[Day28] 聊聊學會操作資料庫的好處 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/17/%E5%AD%B8%E6%9C%83%E6%93%8D%E4%BD%9C%E8%B3%87%E6%96%99%E5%BA%AB%E7%9A%84%E5%A5%BD%E8%99%95/)  
+[[Day29] Blog資料庫設計參考 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/17/wordpress%E8%B3%87%E6%96%99%E5%BA%AB%E8%A6%8F%E5%8A%83%E5%8F%83%E8%80%83/)  
+[[Day30] 電商資料庫設計參考 - SQL Server資料庫入門](https://yuhsiang237.github.io/2021/09/19/%E9%9B%BB%E5%95%86%E8%B3%87%E6%96%99%E5%BA%AB%E8%A8%AD%E8%A8%88%E5%8F%83%E8%80%83/)  
